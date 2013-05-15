@@ -1,0 +1,16 @@
+{
+  "name": "dynamic-53",
+  "version": "0.0.0",
+  "description": "Dynamic DNS",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Prashant Singh",
+  "license": "BSD",
+  "dependencies": {
+    "aws-sdk": "~1.0.0",
+    "express": "~3.2.4"
+  }
+}
